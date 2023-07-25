@@ -18,5 +18,6 @@
     "titleBar.inactiveBackground": "#00b4d899",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#00b4d8"
+  "peacock.color": "#00b4d8",
+  "livePreview.defaultPreviewPath": "/PHP Tutorial 2/Q1/Q1.html"
 }
